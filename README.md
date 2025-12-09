@@ -1,6 +1,6 @@
 # 📧 AI Cold Email Generator
 
-An AI-powered cold email generator built with **Streamlit**, **LangChain**, **ChromaDB**, **HuggingFace sentence-transformers**, and **Groq Llama 3.1**.[web:40][web:43][web:44][web:13]  
+An AI-powered cold email generator built with **Streamlit**, **LangChain**, **ChromaDB**, **HuggingFace sentence-transformers**, and **Groq Llama 3.1**.  
 Upload your CV, paste a job description, and get a personalized cold email grounded in your actual resume content.
 
 ---
