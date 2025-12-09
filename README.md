@@ -32,19 +32,20 @@ Upload your CV, paste a job description, and get a personalized cold email groun
 ## Setup:
 
 1. **Create and activate a virtual environment**
-
+```
    python -m venv venv
 venv\Scripts\activate
+```
 2. **Install dependencies**
-
+```
 pip install -r requirements.txt
-
+```
 3. **Configure environment variables**
 
 - Create a `.env` file in the project root:
 
   ```
-  GROQ_API_KEY=your-groq-key-here
+  GROQ_API_KEY= The key.
   ```
 
 - Never commit `.env`. Use `.env.example` as a template.
@@ -52,9 +53,9 @@ pip install -r requirements.txt
 ---
 
 ## Run the App
-
+```
 streamlit run app.py
-
+```
 
 ### Then open the URL shown in the terminal (usually `http://localhost:8501`).
 
