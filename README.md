@@ -15,7 +15,7 @@ Upload your CV, paste a job description, and get a personalized cold email groun
 - Generates a concise, tailored cold email using **Groq Llama 3.1 via LangChain’s `ChatGroq` and `RetrievalQA`**.
 - Clean Streamlit UI:  
   1) Upload CV
-  2) 2) Paste JD
+  2) Paste JD
   3) Generate Email.
 
 ---
