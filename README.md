@@ -21,7 +21,7 @@ Upload your CV, paste a job description, and get a personalized cold email groun
 ## Tech Stack:
 
 - **Python**
-- **Streamlit** – UI and app framework.[web:39][web:42]  
+- **Streamlit** – UI and app framework.
 - **LangChain** – LLM orchestration and RetrievalQA chain.
 - **ChromaDB** – Vector store for CV chunks.  
 - **HuggingFace sentence-transformers** – `all-MiniLM-L6-v2` embeddings.  
@@ -55,8 +55,6 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-
-### Then open the URL shown in the terminal (usually `http://localhost:8501`).
 
 ---
 
